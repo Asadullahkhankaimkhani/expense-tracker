@@ -1,10 +1,10 @@
 
 import './App.css';
-import {Header} from "./Header"
-import {Balance} from "./Balance"
-import { IncomeExpenses } from './IncomeExpenses';
-import { TransactionList} from './TransactionList';
-import { AddTransaction} from './AddTransaction';
+import {Header} from "./Components/Header"
+import {Balance} from "./Components/Balance"
+import { IncomeExpenses } from './Components/IncomeExpenses';
+import { TransactionList} from './Components/TransactionList';
+import { AddTransaction} from './Components/AddTransaction';
 
 function App() {
   return (
